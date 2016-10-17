@@ -1,0 +1,21 @@
+<div id="blog-index" class="row">
+	<div class="small-12 columns t30">
+		<header>
+			<div itemprop="name">
+				<p class="subheadline">{{ page.subheadline }}</p>
+				<h1>{{ page.title }}</h1>
+			</div>
+		</header>		
+		<dl class="accordion" data-accordion>
+			{% for entry in page.questions %}
+                        {% assign loopindex = forloop.index | modulo: 2 %}
+			<dd class="accordion-navigation">
+			<a href="#panel{{ forloop.index }}" {% if loopindex == 0 %} style="background: #fff" {% endif %}><span class="iconfont"></span><strong>{{ entry.question }}</strong></a>
+				<div id="panel{{ forloop.index }}" class="content">
+					{{ entry.answer }}
+				</div>
+			</dd>
+			{% endfor %}
+		</dl>
+	</div><!-- /.small-12.columns -->
+</div><!-- /.row -->

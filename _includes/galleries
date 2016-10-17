@@ -1,0 +1,44 @@
+{% comment %}
+*
+*   This include lets you easily embed a gallery into your post.
+*   To use the gallery include you...
+*
+*   1. ...need two images: a thumbnail and a big image.
+*   2. Name the thumbnail gallery-image-thumb.jpg and...
+*   3. ...name the big gallery-image.jpg
+*   4. Define the big version in frontmatter,
+*
+*   gallery:
+*       - image_url: gallery-image.jpg
+*
+*   5. Give your image a caption – works without captions, too.
+*
+*   gallery:
+*       - image_url: gallery-image.jpg
+*          caption: Starting Page with huge One Logo
+*
+*   6. Add the include whereever you want in your content like this:
+*
+*   {% include gallery %}
+*
+*   Check out the example page › http://phlow.github.io/feeling-responsive/design/gallery/
+*
+{% endcomment %}
+<div>
+{% assign index = 0 %}
+{% for gallery in page.galleries %}
+  <div style="float: left; margin-bottom : 4px; width: 300px; height: 250px; text-align: center;">
+  <div style="font-size: 14px; text-align: center;margin-right: 10px;">{{ gallery.title }}</div>
+  <div style="font-size: 12px; text-align: center;margin-right: 10px;">{{ gallery.date }}</div>
+    <ul class="clearing-thumbs">
+      <li>
+        <a href="{{ gallery.url }}">
+          <img {% if gallery.caption %}data-caption="{{ gallery.caption }}"{% endif %} src="{{ gallery.thumb }}" width="250px" height="100px" alt="">
+        </a>
+      </li>
+    </ul>
+  </div>
+{% endfor %}
+
+
+

@@ -1,0 +1,32 @@
+- title: "Actu"
+  url: "/blog/archive/"
+  side: left
+
+- title: Le club
+  url: "/club/"
+  side: left
+
+- title: "Senior"
+  url: "/senior/"
+  side: left
+
+- title: "École"
+  url: "/ecole/"
+  side: left	
+
+- title: "Vétéran"
+  url: "/veteran/"
+  side: left
+
+- title: "Partenaires"
+  url: "/partenaires/"
+  side: left
+
+- title: "FAQ"
+  url: "/faq/"
+  side: right
+
+- title: "Nous rejoindre"
+  url: "/contact/"
+  side: right
+  hilight: true

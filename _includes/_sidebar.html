@@ -1,0 +1,10 @@
+{% for entry in page.sides %}
+<aside>
+	<div class="panel radius">
+		<h3>{{ entry.title }}</h3>
+		<p>
+			{{ entry.content }}
+		</p>
+	</div>
+</aside>
+{% endfor %}
