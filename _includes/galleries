@@ -27,11 +27,11 @@
 <div>
 {% assign index = 0 %}
 {% for gallery in page.galleries %}
-  <div style="float: left; margin-bottom : 4px; width: 300px; height: 250px; text-align: center;">
+  <div style="float: left; margin-bottom : 4px; width: 290px; height: 250px; text-align: center;">
   <div style="font-size: 14px; text-align: center;margin-right: 10px;">{{ gallery.title }}</div>
   <div style="font-size: 12px; text-align: center;margin-right: 10px;">{{ gallery.date }}</div>
     <ul class="clearing-thumbs">
-      <li>
+      <li style="width: 290px; text-align: center">
         <a href="{{ gallery.url }}">
           <img {% if gallery.caption %}data-caption="{{ gallery.caption }}"{% endif %} src="{{ gallery.thumb }}" width="250px" height="100px" alt="">
         </a>

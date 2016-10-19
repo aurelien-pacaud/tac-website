@@ -9,7 +9,7 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Soirée Halloween"
-  url: '/actu/HALLOWEEN_2016/'
+  url: '/evenement/HALLOWEEN_2016/'
   image: actu/soirees/halloween-thumb.png
   text: "Après l'entrainement venez au club house de l'horreur !"
   date: '04/11/2016'
