@@ -4,7 +4,7 @@ show_meta: false
 title: "Partenaires"
 subheadline: "Qui nous soutiens ?"
 header:
-   image_fullwidth: "partenaire/partenaire.jpg"
+   image_fullwidth: "partenaires/partenaires.jpg"
 permalink: "/partenaires/"
 ---
 

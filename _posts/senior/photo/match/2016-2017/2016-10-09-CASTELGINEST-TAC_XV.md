@@ -16,7 +16,7 @@ categories:
     - match
     - 2016-2017
 header:
-   image_fullwidth: "photo.jpg"
+   image_fullwidth: "castel.JPG"
 image:
     thumb: "https://lh3.googleusercontent.com/-yzAaNt2o5KE/WAe7Xaksx5I/AAAAAAAAT4I/M5hSxPZ4ZBgYZj4CsPh-yX4gDOhj0dOkACHM/s400/034.JPG"
 sides:
