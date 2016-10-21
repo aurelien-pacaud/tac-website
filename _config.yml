@@ -75,6 +75,7 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
+    - template_gallery.md
 
 
 # The language setting is used in /includes/header.html for html-settings
