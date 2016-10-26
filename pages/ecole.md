@@ -13,7 +13,7 @@ sides:
   - title: Contact
     content: <strong>Directeur Ecole de Rugby</strong><br />VALETTE Peter
   - title: Plus d'infos
-    content: Les événement<br /> Le calendrier / Les résultats<br /> Les photos
+    content: Les événements<br /> Le calendrier / Les résultats<br /> <a href="/ecole/photo/">Les photos</a>
 ---
 L'école de rugby du TAC -Lafourguette XV fonctionne le mercredi (et le vendredi pour les minimes et benjamins) de 17 H 00 à 19 h 30, *sauf vacances scolaires*.
 

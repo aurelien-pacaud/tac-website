@@ -34,6 +34,18 @@ permalink: "/senior/photo/"
                             <strong>Saison 2013-2014</strong>
                           </a>
 			</dd>
+                        <dd class="accordion-navigation">
+			  <a href="match/2011-2012/index_photo_2011_2012/" class="accordion-navigation">
+                            <span class="iconfont"></span>
+                            <strong>Saison 2011-2012</strong>
+                          </a>
+			</dd>
+                        <dd class="accordion-navigation">
+			  <a href="match/2010-2011/index_photo_2010_2011/" class="accordion-navigation" style="background: #fff">
+                            <span class="iconfont"></span>
+                            <strong>Saison 2010-2011</strong>
+                          </a>
+			</dd>
 		</dl>
 	</div><!-- /.small-12.columns -->
 </div><!-- /.row -->
