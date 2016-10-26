@@ -3,8 +3,11 @@ layout: page-fullwidth
 show_meta: false
 title: "Classement et résultats"
 subheadline: "Où en est l'équipe ?"
+teaser: "Envie de revoir les résultats des matchs et de savoir où se trouve le TAC au classement !? C'est par ici !!"
 header:
   image_fullwidth: "classement.jpg"
+image:
+    thumb: "http://tac-rugby.com/images/classement.jpg"
 permalink: "/senior/classement/"
 ---
 
@@ -12,15 +15,15 @@ permalink: "/senior/classement/"
 
 
 |#|CLUB|PTS|J|G|N|P|GA|PB|NEI|NF
-|1|R C CRUXEEN|15|4|3|0|1|131|3|0|0
-|2|U S MAS D'AZIL|14|4|3|0|1|111|2|0|0
+|1|U S MAS D'AZIL|15|4|3|0|1|111|3|0|0
+|1|R C CRUXEEN|15|4|3|0|1|132|3|0|0
+|3|U S KERCORB BASTIDE PEYRAT|14|3|3|0|0|46|2|0|0
 |3|UNION SPORTIVE PLATEAU DE SAULT XV|14|3|3|0|0|59|2|0|0
-|4|U S KERCORB BASTIDE PEYRAT|14|3|3|0|0|46|2|0|0
 |5|CLUB OMNISPORT RIEUCROSAIN|9|4|2|0|2|-8|1|0|0
-|6|**TAC XV**|7|3|1|1|1|39|0|0|0
-|7|RUGBY CASTELGINEST XV|0|4|0|1|3|-101|0|0|1
-|8|LHERM ST CLAR XV|0|3|0|0|3|-111|0|0|0
-|9|C O CASTILLONAIS|0|4|0|0|4|-157|0|0|0
+|6|**TAC XV**|7|3|1|1|1|39|1|0|0
+|7|LHERM ST CLAR XV|0|3|0|0|3|-111|0|0|0
+|7|C O CASTILLONAIS|0|4|0|0|4|-157|0|0|0
+|7|RUGBY CASTELGINEST XV|0|4|0|1|3|-111|0|0|1
 
 
 ### Résultat
