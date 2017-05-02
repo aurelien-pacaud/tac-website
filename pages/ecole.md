@@ -23,7 +23,7 @@ Tout nouveau joueur peut participer à 3 semaines de découverte avant de prendr
 
 Les matches ont lieu le samedi selon le calendrier décidé par le Comité Midi Pyrénées de Rugby. Un goûter est distribué après les matches. Il est souhaitable qu'un maximum de parents nous accompagne et encourage nos joueurs.
 
- cotisation annuelle est de 90€ pour 1 licencié, elle est dégressive si plusieurs enfants frères et soeurs sont licenciés au club de rugby.
+ cotisation annuelle est de 90€ pour 1 licencié, elle est dégressive si plusieurs enfants frères et soeurs sont licenciés au club de rugby. Il est possible de régler cette cotisation à l'aide des chèques vacances.
 
 Lorsque le dossier de licence est établi et la cotisation payée, le joueur se voit remettre 1 short, 1 paire de chaussettes et 1 protège-dents (obligatoire) pour les matches. Ce matériel est sa propriété et il n'en sera pas donné d'autres sauf en cas de changement de taille ou de pointure. Ce, contre restitution de l'équipement trop petit. Le maillot de match sera remis à chaque rencontre et restitué après les matches.
 
