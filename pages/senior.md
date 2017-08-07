@@ -8,6 +8,8 @@ header:
    image_fullwidth: "equipe.jpg"
 permalink: "/senior/"
 sides:
+  - title: Annonces
+    content: L'équipe sénior <a href="/actu/REPRISE_2017-2018/">recherche des joueurs</a> pour la saison prochaine. Si vous êtes intéressés, merci de nous contacter. (<a href="mailto:tac.rugby.xv.contact@gmail.com">mail</a> ou <a href="https://www.facebook.com/groups/228361697228044/?fref=ts">Facebook</a>)
   - title: Entraînement
     content: Mardi / Vendredi 20h00 à 22h00
   - title: Contact
