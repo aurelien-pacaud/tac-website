@@ -8,23 +8,23 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Soirée Disco"
-  url: '/evenement/DISCO_2017/'
-  image: actu/soirees/disco-thumb.jpg
-  text: "Venez vous déhancher sous la boule à facettes du TAC vous attends !"
-  date: '20/01/2017'
+  title: "Reprise entraînement"
+  url: '/actu/REPRISE_2017-2018/'
+  image: actu/reprise-thumb.JPG
+  text: "La bière et les chipos vous pèse ? La reprise s'impose !"
+  date: '22/08/2017'
 widget2:
-  title: "Soirée Noël"
-  url: '/evenement/NOEL_2016/'
-  image: actu/soirees/noel-thumb.jpg
-  text: "Venez montrer au Papa Alain Noël que vous avez été sage !"
-  date: '09/12/2016'
+  title: "Assemblée générale"
+  url: '/actu/ASSEMBLEE_GENERALE_2017/'
+  image: actu/ag-thumb.jpg
+  text: "Assemblée générale de fin de saison au club house suivie d'un repas."
+  date: '09/06/2017'
 widget3:
-  title: "Soirée Halloween"
-  url: '/evenement/HALLOWEEN_2016/'
-  image: actu/soirees/halloween-thumb.png
-  text: "Après l'entrainement venez au club house de l'horreur !"
-  date: '04/11/2016'
+  title: "TAC'A'JOUER"
+  url: '/evenement/TAC_A_JOUER_2017/'
+  image: actu/tacajouer-thumb.jpg
+  text: "TAC'A'JOUER<br/> Olympiade 2017"
+  date: '06/05/2017'
 callforaction:
   url: /contact/
   text: Nous rejoindre ›

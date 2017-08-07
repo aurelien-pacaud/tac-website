@@ -6,7 +6,7 @@
 - name: YouTube
   url: http://www.dailymotion.com/tac-rugby/
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "Chaîne youtube du club"
 
 #- name: Twitter
 #  url: http://twitter.com/phlow
@@ -26,7 +26,12 @@
 - name: Facebook
   url: https://www.facebook.com/groups/228361697228044/?fref=ts
   class: icon-facebook
-  title: ""
+  title: "Facebook du club"
+
+- name: Mail
+  url: mailto:tac.rugby.xv.contact@gmail.com
+  class: icon-mail
+  title: "Adresse de contact du club"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/

@@ -8,7 +8,7 @@ header:
   image_fullwidth: "classement.jpg"
 image:
     thumb: "http://tac-rugby.com/images/classement.jpg"
-permalink: "/senior/classement/"
+permalink: "/senior/classement/2016-2017"
 ---
 
 ### Classement
